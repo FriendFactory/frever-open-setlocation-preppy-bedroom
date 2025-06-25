@@ -11,7 +11,7 @@ These assets are primarily used to establish diverse environments, set moods, an
 ---
 
 ### Art Overview
-[Environment pipeline guide.pdf](https://github.com/FriendFactory/frever-open-setlocation-preppy-bedroom/blob/setup-readme/Environment%20pipeline%20guide.pdf)
+[Environment pipeline guide.pdf](https://github.com/FriendFactory/frever-open-setlocation-preppy-bedroom/blob/main/Environment%20pipeline%20guide.pdf)
 ---
 
 ### Dependencies
